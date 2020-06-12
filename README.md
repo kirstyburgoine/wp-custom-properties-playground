@@ -1,3 +1,17 @@
+# Custom Properties Playground
+
+This repo is a copy fo the WordPress Develop repo (see the original readme below), that has been changed to use Local by Flywheel as the local development environment.
+
+It is intended to be a playground for experiementing with swapping out the admin colours and instead using CSS Custom Properties.
+
+## All the disclaimers
+- This repo is not kept in sync with wordpress-develop. This is purely for me to play around.
+- It is a place for experimentation so naming, file structure, basically all the things may be wrong at any time so expect weirdness.
+- It is not intended for use by the public.
+- Nothing in this repo would be a proposal to merge into core wordpress. Anything good that comes from this would be transferred to wordpress-develop and a PR opened against that repo so that people could input on it there.
+
+-----------
+
 # WordPress
 
 [![Build Status](https://img.shields.io/travis/com/WordPress/wordpress-develop/master.svg)](https://travis-ci.com/WordPress/wordpress-develop)
